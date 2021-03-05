@@ -20,25 +20,3 @@ This is section related do heading FIVE.
 
 ###### Heading level 6
 
-This is section related do heading SIX.
-
-Heading level alternative 1
-=
-
-This is section related do ALTERNATIVE heading ONE.
-
-Heading level alternative 2
--
-
-This is section related do ALTERNATIVE heading TWO.
-
-# Horizontal lines and rules
-
-This section will cover horizontal rules syntax at .md files
-
-___
-
----
-
-***
-
